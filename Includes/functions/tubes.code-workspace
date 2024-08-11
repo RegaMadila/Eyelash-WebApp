@@ -1,0 +1,61 @@
+{
+  "folders": [
+	{
+		"name": "Blynk",
+		"path": "C:/Users/RedHood/Documents/PlatformIO/Projects/Blynk"
+	},
+	{
+		"path": "C:/Users/RedHood/Documents/PlatformIO/Projects/ir-readwrite"
+	},
+	{
+		"path": "C:/Users/RedHood/Documents/PlatformIO/Projects/ir-cloner"
+	},
+	{
+		"path": "C:/Users/RedHood/Documents/PlatformIO/Projects/infrared-cloner"
+	},
+	{
+		"name": "task_http",
+		"path": "C:/Users/RedHood/Documents/PlatformIO/Projects/task_http"
+	},
+	{
+		"path": "C:/Users/RedHood/Documents/PlatformIO/Projects/Blynk_fuzzy"
+	},
+	{
+		"path": "C:/Users/RedHood/Documents/PlatformIO/Projects/fuzzy"
+	},
+	{
+		"path": "../../.."
+	},
+	{
+		"path": "../../../../barbershopweb"
+	},
+	{
+		"path": "../../../../Tubes"
+	},
+	{
+		"name": "blynkfuzzy_final",
+		"path": "C:/Users/RedHood/Documents/PlatformIO/Projects/blynkfuzzy_final"
+	},
+	{
+		"path": "C:/Users/RedHood/Documents/PlatformIO/Projects/fuzzyblynk_tes"
+	}
+],
+  "settings": {
+    "files.associations": {
+      "*.embeddedhtml": "html",
+      "optional": "cpp",
+      "istream": "cpp",
+      "ostream": "cpp",
+      "ratio": "cpp",
+      "system_error": "cpp",
+      "array": "cpp",
+      "functional": "cpp",
+      "tuple": "cpp",
+      "type_traits": "cpp",
+      "utility": "cpp",
+      "cmath": "cpp",
+      "new": "cpp"
+    },
+    "liveServer.settings.multiRootWorkspaceName": "Tubes"
+  }
+}
